@@ -9,7 +9,7 @@ public class Controller {
 	@GetMapping("/welcome")
 	public static String test() {
 		
-		return "AWS Hosting Testing";
+		return "AWS Hosting Testing second branch";
 	}
 	
 	@GetMapping("/lalit")
